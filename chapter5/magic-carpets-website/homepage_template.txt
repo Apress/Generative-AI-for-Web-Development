@@ -1,0 +1,30 @@
++-------------------------------------------------------------------------------+
+|                                Navigation Bar                                 |
+|------------------------------------------------------------------------------ |
+| Home | Products | Contact                                                     |
++-------------------------------------------------------------------------------+
+|                                                                               |
+|                                 Hero Section                                  |
+|                         [Beautiful Hand-Woven Carpets]                        |
+|                             [Shop Now Button]                                 |
++-------------------------------------------------------------------------------+
+|                              Product Features                                 |
+|------------------------------------------------------------------------------ |
+| [Product 1 Image]        | [Product 2 Image]                                  |
+| [Product 1 Title]        | [Product 2 Title]                                  |
+| [Product 1 Description]  | [Product 2 Description]                            |
+| [View Product Button]    | [View Product Button]                              |
++-------------------------------------------------------------------------------+
+|                            Customer Testimonials                              |
+|------------------------------------------------------------------------------ |
+| "These carpets transformed our home! Absolutely stunning and high quality."   |
+| - Customer Name                                                               |
+|                                                                               |
+| "The craftsmanship is incredible. A true piece of art."                       |
+| - Customer Name                                                               |
++-------------------------------------------------------------------------------+
+|                                    Footer                                     |
+|------------------------------------------------------------------------------ |
+| Links: Home | Products | Contact                                              |
+| Social Media: [Facebook Icon] [Twitter Icon] [Instagram Icon]                 |
++-------------------------------------------------------------------------------+

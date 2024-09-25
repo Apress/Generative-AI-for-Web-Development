@@ -1,0 +1,22 @@
+{
+  "name": "story-generator-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.19.1",
+    "next": "14.2.5",
+    "openai": "^4.56.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "prisma": "^5.19.1"
+  }
+}
